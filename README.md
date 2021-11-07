@@ -23,7 +23,7 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-000000?style=flat&logo=numpy)
 
 
-![Scikit_Learn](https://img.shields.io/badge/-Scikit%20Learn-brown?style=flat&logo=scikit_learn)
+![Scikit_Learn](https://img.shields.io/badge/-Scikit_Learn-yellow?style=flat&logo=scikit_learn)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![Keras](https://img.shields.io/badge/-Keras-000000?style=flat&logo=keras)
